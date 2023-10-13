@@ -36,7 +36,15 @@
 * <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/profile.py">Alert profile</a>
 * <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/tag.py">Tag</a>
 &nbsp;  
-&nbsp;       
+&nbsp; 
+## Conhecendo Interface Dynatrace 
+* <a href="https://www.youtube.com/watch?v=Hcdd6v51YxM">Como Funciona pesquisa no Dynatrace</a>  
+* <a href="https://www.youtube.com/watch?v=553LQBe2-pE"> Dashboard </a>
+* <a href="https://www.youtube.com/watch?v=yDkZpGUmsE0"> Metricas </a>
+* <a href="https://www.youtube.com/watch?v=A3eq1jdaE1M"> Logs </a>
+* <a href="https://www.youtube.com/watch?v=RgRAnGKwJCQ&t=17s">Diferença de aviso de problema é identificação de Problema </a>
+&nbsp;  
+&nbsp;    
 ## My Skills
 &nbsp;  
 &nbsp;  
