@@ -1,18 +1,22 @@
 
 <img align="left" style="margin-bottom:50px" width=50% src="https://images.squarespace-cdn.com/content/v1/58a279d01b10e38533c0d79a/1575418305098-TOIXMPAEZ2R9ALAGBSBX/dynatrace-logo.jpg?format=1500w" />
-&nbsp;
-&nbsp;
-&nbsp;
-# Em construção
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;     
 
-## Existe videos no youtube que ajuda a entender melhor sobre o dynatrace, está no modo simples para iniciante.
-&nbsp;
-&nbsp;
-&nbsp;
+  # Em construção
+Existe videos no youtube que ajuda a entender melhor sobre o dynatrace, está no modo simples para iniciante.
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;    
+
 ## Conhecendo Interface Dynatrace 
 * <a href="https://www.youtube.com/watch?v=Hcdd6v51YxM">Como Funciona pesquisa no Dynatrace</a>  
 * <a href="https://www.youtube.com/watch?v=553LQBe2-pE"> Dashboard </a>
@@ -21,7 +25,9 @@
 * <a href="https://www.youtube.com/watch?v=RgRAnGKwJCQ&t=17s">Diferença de aviso de problema é identificação de Problema </a>
 
 &nbsp;  
-&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">&nbsp;
 
 ## Contacts:
