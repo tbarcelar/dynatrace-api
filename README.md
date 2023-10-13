@@ -12,6 +12,14 @@
 &nbsp;  
 &nbsp;  
 
+### <a href="https://www.youtube.com/watch?v=Hcdd6v51YxM&list=PLb8pIguvwiGMZFzCY7x2fbQyHXCiQymLp">Conhecendo Interface Dynatrace</a>
+* <a href="https://www.youtube.com/watch?v=Hcdd6v51YxM">Como Funciona pesquisa no Dynatrace</a>  
+* <a href="https://www.youtube.com/watch?v=553LQBe2-pE"> Dashboard </a>
+* <a href="https://www.youtube.com/watch?v=yDkZpGUmsE0"> Metricas </a>
+* <a href="https://www.youtube.com/watch?v=A3eq1jdaE1M"> Logs </a>
+* <a href="https://www.youtube.com/watch?v=RgRAnGKwJCQ&t=17s">Diferença de aviso de problema é identificação de Problema </a>
+&nbsp;  
+&nbsp; 
 ### <a href="https://github.com/tbarcelar/dynatrace-api/tree/main/consumo-ddu">Api para verificar consumo</a>  
 * <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/consumo-ddu/ddu.py">Consumo DDU</a>  
 * <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/consumo-ddu/host-units.py"> Consumo host units </a>
@@ -37,25 +45,9 @@
 * <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/tag.py">Tag</a>
 &nbsp;  
 &nbsp; 
-## Conhecendo Interface Dynatrace 
-* <a href="https://www.youtube.com/watch?v=Hcdd6v51YxM">Como Funciona pesquisa no Dynatrace</a>  
-* <a href="https://www.youtube.com/watch?v=553LQBe2-pE"> Dashboard </a>
-* <a href="https://www.youtube.com/watch?v=yDkZpGUmsE0"> Metricas </a>
-* <a href="https://www.youtube.com/watch?v=A3eq1jdaE1M"> Logs </a>
-* <a href="https://www.youtube.com/watch?v=RgRAnGKwJCQ&t=17s">Diferença de aviso de problema é identificação de Problema </a>
 &nbsp;  
 &nbsp;    
-## My Skills
-&nbsp;  
-&nbsp;  
-Dynatrace
-Python  
-Azure  
-AWS  
-Datadog  
-GCP  
-PowerBi  
-Terraform  
+
 &nbsp;  
 &nbsp;
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">&nbsp;
