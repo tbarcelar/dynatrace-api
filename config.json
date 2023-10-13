@@ -1,0 +1,9 @@
+{
+    "requests_data": [
+        {
+            "url": "https://xxxxxxxxxx.live.dynatrace.com",
+            "name": "xxxxxxxxxxxxxxxx",
+            "token": "xxxxxxxxxxxx"
+        }
+    ]
+}
