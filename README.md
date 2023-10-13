@@ -1,42 +1,58 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://images.squarespace-cdn.com/content/v1/58a279d01b10e38533c0d79a/1575418305098-TOIXMPAEZ2R9ALAGBSBX/dynatrace-logo.jpg?format=1500w" />
-&nbsp;&nbsp;&nbsp;
+<img align="left" style="margin-bottom:50px" width=50% src="https://images.squarespace-cdn.com/content/v1/58a279d01b10e38533c0d79a/1575418305098-TOIXMPAEZ2R9ALAGBSBX/dynatrace-logo.jpg?format=1500w" />
+&nbsp;
+<p align="center">I ❤️ Dynatrace. <br><br> Em construção <strong> Orientação básica </strong> Sobre Dynatrace <strong>.</p>&nbsp;
+ </div>  
 
-<p align="center">I ❤️ Dynatrace. <br><br> xxxxxxx <strong>yyyyyyyyyyyy</strong> aaaaaaaaaaaaaa <strong>fssssssss</strong> ddddddddd.</p>&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://images.squarespace-cdn.com/content/v1/58a279d01b10e38533c0d79a/1575418305098-TOIXMPAEZ2R9ALAGBSBX/dynatrace-logo.jpg?format=1500w" />
-<img width=40% align="center" src="https://images.squarespace-cdn.com/content/v1/58a279d01b10e38533c0d79a/1575418305098-TOIXMPAEZ2R9ALAGBSBX/dynatrace-logo.jpg?format=1500w" />
- </div>
- 
- &nbsp;
- &nbsp;
+&nbsp;  
+&nbsp;  
 
-
-
+### <a href="https://github.com/tbarcelar/dynatrace-api/tree/main/consumo-ddu">Api para verificar consumo</a>  
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/consumo-ddu/ddu.py">Consumo DDU</a>  
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/consumo-ddu/host-units.py"> Consumo host units </a>
+&nbsp;  
+&nbsp; 
+### <a href="https://github.com/tbarcelar/dynatrace-api/tree/main/gerenciar-todos-tenant">Api para verificar todo o tenant</a>  
+* <a href="https://github.com/tbarcelar/dynatrace-api/tree/main/gerenciar-todos-tenant/tenant">Listar Todos os tenants</a>  
+* <a href="https://github.com/tbarcelar/dynatrace-api/tree/main/gerenciar-todos-tenant/user"> Listar todos os usuários de todos os tenant</a>
+&nbsp;  
+&nbsp;
+### <a href="https://github.com/tbarcelar/dynatrace-api/tree/main/gerenciar-todos-tenant">Api para verificar o que Dynatrace está monitorando</a>  
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/aws.py">AWS</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/azure.py">Azure</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/dashboard.py">Dashboard</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/ddup.py">DDU</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/list-token.py">Listar tokens</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/listar-host.py">Listar hosts</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/maintenance-windows.py">Manutenção de hosts/services</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/metric-events.py">Metric Events.py</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/mz.py">Manager Zone</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/notification-problem.py">Notificação de problemas</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/profile.py">Alert profile</a>
+* <a href="https://github.com/tbarcelar/dynatrace-api/blob/main/listar-o-que-tem-no-tenant/tag.py">Tag</a>
+&nbsp;  
+&nbsp;       
 ## My Skills
-
-#### Main Stack:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
-
-
+&nbsp;  
+&nbsp;  
+Dynatrace
+Python  
+Azure  
+AWS  
+Datadog  
+GCP  
+PowerBi  
+Terraform  
+&nbsp;  
 &nbsp;
-&nbsp;
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">&nbsp;
 
 ## Contacts:
-
 <div> 
 <a href="https://www.instagram.com/tatibarcelar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
