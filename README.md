@@ -18,6 +18,7 @@
 * <a href="https://www.youtube.com/watch?v=yDkZpGUmsE0"> Metricas </a>
 * <a href="https://www.youtube.com/watch?v=A3eq1jdaE1M"> Logs </a>
 * <a href="https://www.youtube.com/watch?v=RgRAnGKwJCQ&t=17s">Diferença de aviso de problema é identificação de Problema </a>
+* <a href="https://youtu.be/jRRftXBgCQg"> Monitoramento cloud e host </a>
 &nbsp;  
 &nbsp; 
 ### <a href="https://github.com/tbarcelar/dynatrace-api/tree/main/consumo-ddu">Api para verificar consumo</a>  
